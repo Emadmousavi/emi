@@ -1,1 +1,3 @@
-bool shit
+
+boolean
+
